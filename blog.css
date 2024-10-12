@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+}
+
+.blog_card{
+    height: 100vh;
+    width: 100vw;
+    background-color:hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    /* padding:0px 20px 50px 30px; */
+    height: 520px;
+    width: 380px;
+    background-color: white;
+    border: 1.5px solid black;
+    border-radius: 15px;
+    box-shadow: 8px 7px 0px black;
+    
+ 
+}
+.box2{
+    height: 200px;
+    width: 350px;
+    padding: 16px 15px;
+}
+#image1{
+    height: 210px;
+    width: 350px;
+    border-radius:20px;
+
+}
+#btn_learning{
+    height: 30px;
+    width: 100px;
+    background-color:hsl(47, 88%, 63%);
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+    border-radius: 7px
+}
+
+.contents{
+    padding: 20px 20px;
+}
+.down_section{
+    height: 60px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: start;
+    
+
+}
+#img_icon{
+    height: 45px;
+    width: 45px;
+    margin-right: 17px;
+}
+.entry_details{
+    height: 150px;
+    width: 340px;
+    margin-top: 10px;
+}
+.entry_details>h2{
+    font-size: 24px;
+}
+.entry_details>p{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: hsl(0, 0%, 42%)
+}  
+#p1{
+    color: hsl(0, 0%, 42%)
+}
+#p2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(70, 70, 70);
+}
+.attribution{
+    background-color:hsl(47, 88%, 63%);
+}
