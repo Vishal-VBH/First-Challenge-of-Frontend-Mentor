@@ -16,8 +16,8 @@ Screenshot of the output
 Screenshot of the output
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Vishal-VBH/First-Challenge-of-Frontend-Mentor
+- Live Site URL: https://github.com/Vishal-VBH/First-Challenge-of-Frontend-Mentor/deployments/github-pages
 
 ## My process
 
